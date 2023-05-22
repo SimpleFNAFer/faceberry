@@ -1,0 +1,3 @@
+/home/nasy/repos/faceberry/cmake-build-debug/CMakeFiles/faceberry.dir
+/home/nasy/repos/faceberry/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nasy/repos/faceberry/cmake-build-debug/CMakeFiles/rebuild_cache.dir
